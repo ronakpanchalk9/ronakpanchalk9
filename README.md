@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Ronak Panchal
-- 🌱 I’m currently learning JAVA.
-- I have 5* in Java on Hackerrank.
+- I have 5* in Java, 4* in Python on Hackerrank.
 - 📫 You can reach to me through my e-mail ID 👉 ronakpanchalk9@gmail.com
 - Feel free to suggest me anything related to my projects as I'm a newbie. :)
 
